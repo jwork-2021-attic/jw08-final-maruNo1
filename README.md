@@ -12,7 +12,7 @@
 
 - 虽然测试样例都能通过，但目前还没能查看代码覆盖度，在执行jacoco的时候会一直报错缺失rules，但到目前还没能解决
  
-![avatar](../Junit.png)
+![avatar](Junit.png)
 
 
 
